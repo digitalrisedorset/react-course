@@ -28,3 +28,6 @@ nbproject
 _notes
 .vscode
 dwsync.xml
+.idea
+.env
+
